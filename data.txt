@@ -2,6 +2,6 @@
     'package': [
         'apache',
         'mysql',
-        'oracle',
+        'db',
     ]
 }
