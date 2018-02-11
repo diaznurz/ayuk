@@ -1,0 +1,7 @@
+'ayik': {
+    'package': [
+        'apache',
+        'mysql',
+        'sap',
+    ]
+}
